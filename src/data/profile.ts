@@ -1,12 +1,12 @@
 export const profile = {
-  name: "Nom Prénom",
-  role: "Ingénieur Logiciel / Chercheur",
+  name: "Ghali Berrada",
+  role: "Ingénieur informatique / etudiant en sir",
   location: "Marrakech, Maroc",
-  email: "prenom.nom@email.com",
+  email: "ghaliberrada2003@gmail.com",
   socials: [
-    { label: "GitHub", href: "https://github.com/monhandle" },
-    { label: "LinkedIn", href: "https://www.linkedin.com/in/monhandle" },
+    { label: "GitHub", href: "https://github.com/Ghaliber03" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/ghali-berrada" },
   ],
-  about: "IA, SIG, DevSecOps, Android.",
-  skills: ["React", "TypeScript", "Node.js", "Docker", "Kubernetes", "GIS"],
+  about: "IA, DEV, DATA, Android.",
+  skills: ["React", "TypeScript", "Node.js"],
 };

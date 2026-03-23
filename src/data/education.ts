@@ -13,12 +13,10 @@ export type Education = {
 export const education: Education[] = [
   {
     school: "Université Cadi Ayyad",
-    degree: "Master",
-    field: "Intelligence Artificielle",
+    degree: "License",
+    field: "SIR ",
     location: "Marrakech",
-    start: "2023-09",
-    end: "2025-07",
-    courses: ["Deep Learning", "MLOps", "SIG & IA"],
-    highlights: ["Major de promo", "Projet UAV + CNN"],
-  },
+    start: "2025-09",
+    end: "2026-07",
+    courses: ["JEE", "DATA", "WEB & IHM"],  },
 ];

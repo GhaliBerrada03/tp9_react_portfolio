@@ -10,10 +10,10 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    title: "EcoShop",
+    title: "Site E-Learning",
     period: "2025",
     tags: ["React", "Node", "OpenFoodFacts"],
-    summary: "Application de scan produits pour achat durable.",
-    repo: "https://github.com/me/ecoshop",
+    summary: "Application de Elearning.",
+    repo: "https://github.com/me/elearning",
   },
 ];
